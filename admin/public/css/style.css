@@ -1,0 +1,19 @@
+.wrapper-padding{
+padding: 1% 1% 1% 1% ;
+}
+.table-img{
+	width:60px;
+	height:auto;
+}
+.imgPreview{
+    border: none;
+    width: 100%;
+    object-fit: cover;
+    height: 320px;
+}
+.imgOnRow{
+    border: none !important;
+    width: 100%;
+    object-fit: cover;
+    height: 200px;
+}
